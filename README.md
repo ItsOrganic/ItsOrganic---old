@@ -6,8 +6,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ItsOrganic&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsOrganic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ItsOrganic&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ItsOrganic&theme=buddhism&no-frame=true&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
