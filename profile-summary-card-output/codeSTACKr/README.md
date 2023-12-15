@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ItsOrganic/ItsOrganic---old/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
